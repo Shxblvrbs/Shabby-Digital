@@ -24,7 +24,7 @@ const services = [
   {
     name: 'Content & Design',
     description:
-      'What good is promoting your business if your ads look... "Shabby". Let's create awesome promotional content with our photo/video and graphic design team!',
+      'What good is promoting your business if your ads look... "Shabby". Let us create awesome promotional content  to our design team!',
     link: 'Learn More',
   },
   {
