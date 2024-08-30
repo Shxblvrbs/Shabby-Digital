@@ -22,9 +22,9 @@ const services = [
     link: 'Learn More',
   },
   {
-    name: 'Promotional Content & Design',
+    name: 'Content & Design',
     description:
-      'What good is promoting your business if your ads look... "Shabby"... let us create awesome promotional content with our awesome photo/video and graphic design team!',
+      'What good is promoting your business if your ads look... "Shabby". Let's create awesome promotional content with our photo/video and graphic design team!',
     link: 'Learn More',
   },
   {
