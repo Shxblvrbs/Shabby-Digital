@@ -69,7 +69,7 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'
             >
-              <button className='btn btn-lg'>Book a Call Today!</button>
+              <button href="https://link.shabbydigital.com/widget/booking/7tCsfKqjOw2CMtCXmUkh" className='btn btn-lg'>Book a Free Website Call!</button>
               <a href='#' className='text-gradient btn-link'>
                 Learn More
               </a>
