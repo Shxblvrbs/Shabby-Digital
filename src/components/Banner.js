@@ -70,9 +70,6 @@ const Banner = () => {
               className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'
             >
               <button className='btn btn-lg'><a href="https://link.shabbydigital.com/widget/booking/7tCsfKqjOw2CMtCXmUkh">Schedule a Call to get a FREE Website Today!</a></button>
-              <a href='#' className='text-gradient btn-link'>
-                Learn More
-              </a>
             </motion.div>
             {/* socials */}
             <motion.div
