@@ -36,7 +36,7 @@ const Contact = () => {
           >
           <iframe
           src="https://link.shabbydigital.com/widget/form/Hcx7W1M10ugkCQwLApqD"
-          className="w-[500px] h-[800px] border-none mt-6 -mb-36 ml-10"
+          className="w-full h-[800px] lg:w-[500px] lg:h-[800px] border-none lg:mt-6 lg:-mb-36 lg:ml-10 -mb-32 -mt-2"
           // style="width:100%;height:100%;border:none;border-radius:4px"
           id="inline-Hcx7W1M10ugkCQwLApqD" 
           data-layout="{'id':'INLINE'}"
