@@ -32,9 +32,28 @@ const Contact = () => {
             initial='hidden'
             whileInView={'show'}
             viewport={{ once: false, amount: 0.3 }}
-            className='flex-1 border rounded-2xl flex flex-col gap-y-6 pb-24 p-6 items-start'
+            className='flex-1 border rounded-2xl flex flex-col gap-y-6 items-start mb-20'
           >
-            <input
+          <iframe
+          src="https://link.shabbydigital.com/widget/form/Hcx7W1M10ugkCQwLApqD"
+          className="w-[500px] h-[800px] border-none mt-6 -mb-36 ml-10"
+          // style="width:100%;height:100%;border:none;border-radius:4px"
+          id="inline-Hcx7W1M10ugkCQwLApqD" 
+          data-layout="{'id':'INLINE'}"
+          data-trigger-type="alwaysShow"
+          data-trigger-value=""
+          data-activation-type="alwaysActivated"
+          data-activation-value=""
+          data-deactivation-type="neverDeactivate"
+          data-deactivation-value=""
+          data-form-name="Intro Call Form"
+          data-height="427"
+          data-layout-iframe-id="inline-Hcx7W1M10ugkCQwLApqD"
+          data-form-id="Hcx7W1M10ugkCQwLApqD"
+          title="Intro Call Form"
+          >
+          </iframe>
+            {/* <input
               className='bg-transparent border-b py-3 outline-none w-full placeholder:text-white focus:border-accent transition-all'
               type='text'
               placeholder='Your name'
@@ -48,7 +67,7 @@ const Contact = () => {
               className='bg-transparent border-b py-12 outline-none w-full placeholder:text-white focus:border-accent transition-all resize-none mb-12'
               placeholder='Your message'
             ></textarea>
-            <button className='btn btn-lg'>Send message</button>
+            <button className='btn btn-lg'>Send Message</button> */}
           </motion.form>
         </div>
       </div>
